@@ -1,0 +1,24 @@
+_repo: Social-Lifeor-The-Manners-and-Customs-of-Polite-Society_28998
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28998-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cooke, Maud C.
+    gutenberg_agent_id: '33639'
+    url: http://www.gutenberg.org/2009/agents/33639
+description: ''
+gutenberg_issued: '2009-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+title: Social Life; or, The Manners and Customs of Polite Society
+url: http://www.gutenberg.org/ebooks/28998
